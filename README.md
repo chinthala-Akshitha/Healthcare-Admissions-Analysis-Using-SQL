@@ -1,6 +1,7 @@
 # Healthcare-Admissions-Analysis-Using-SQL
 
 **Project Overview**
+
 This project analyzes healthcare admission data to uncover insights related to patient demographics, hospital utilization, operational efficiency, medical conditions, and billing performance.
 
 The analysis was performed using SQL, including data cleaning, duplicate removal, aggregation, filtering, and window functions.
